@@ -1,0 +1,83 @@
+.box-border {
+    position: relative;
+    width: 80%;
+    border-bottom: 1px solid #000;
+    margin: 15px auto;
+}
+
+.body-border {
+    position: relative;
+    width: 160px;
+    border-bottom: double;
+    margin: 0px auto;
+}
+
+#box1 {
+    width: 450px;
+    height: 450px;
+    margin: 20px auto;
+}
+
+#box2 {
+    margin: 20px auto;
+}
+
+#box3 {
+    margin: 20px auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+
+#img1,
+#img2,
+#img3,
+#img4,
+#img5,
+#img6,
+#img7,
+#img8 {
+    position: absolute;
+
+}
+
+#img1 {
+    margin-left: 460px;
+    margin-bottom: 380px;
+}
+
+#img2 {
+    margin-left: 130px;
+    margin-bottom: 380px;
+}
+
+#img3 {
+    margin-right: 200px;
+    margin-bottom: 380px;
+}
+
+#img4 {
+    margin-right: 535px;
+    margin-bottom: 380px;
+}
+
+#img5 {
+    margin-right: 535px;
+    margin-top: 380px;
+}
+
+#img6 {
+    margin-right: 200px;
+    margin-top: 380px;
+}
+
+#img7 {
+    margin-left: 130px;
+    margin-top: 380px;
+}
+
+#img8 {
+    margin-left: 460px;
+    margin-top: 380px;
+}
